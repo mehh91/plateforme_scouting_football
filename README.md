@@ -16,21 +16,8 @@ Le projet combine :
 - une logique `football analytics` pour construire des métriques interprétables
 - une logique `produit` avec une application Dash pensée pour une lecture scouting
 
-## Démo visuelle
-Dépose tes visuels dans :
-
-```text
-.github/assets/
-```
-
-Noms de fichiers recommandés :
-- `demo-home.gif`
-- `home.png`
-- `shortlist.png`
-- `player-profile.png`
-- `scouting-radar.png`
-
-Dès que ces fichiers existent, le rendu GitHub ci-dessous s'affichera correctement.
+## Interface
+Quelques vues de l'application :
 
 <p align="center">
   <img src=".github/assets/demo-home.gif" alt="Démo de la plateforme" width="900" />
