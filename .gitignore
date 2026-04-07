@@ -1,6 +1,39 @@
-.venv/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS / editor
 .DS_Store
-data/processed/
+Thumbs.db
+.vscode/
+.idea/
+
+# Local exports
+exports/
+*.html
+*.csv
+
+# Generated project data
+data/raw/*.csv
+data/interim/*.parquet
+data/processed/*.parquet
+
+# Keep folder structure if needed
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
