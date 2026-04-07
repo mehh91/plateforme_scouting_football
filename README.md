@@ -17,20 +17,49 @@ Le projet combine :
 - une logique `produit` avec une application Dash pensée pour une lecture scouting
 
 ## Interface
-Quelques vues de l'application :
+Quelques vues de l'application, pensées pour un usage scouting et recrutement.
+
+### Démonstration
+Vue d'ensemble rapide de la plateforme, de la navigation entre modules et du type d'analyse proposé.
 
 <p align="center">
-  <img src=".github/assets/demo-home.gif" alt="Démo de la plateforme" width="900" />
+  <img src=".github/assets/demo-home.gif" alt="Démo de la plateforme" width="920" />
 </p>
 
-<p align="center">
-  <img src=".github/assets/home.png" alt="Page d'accueil" width="45%" />
-  <img src=".github/assets/shortlist.png" alt="Module shortlist" width="45%" />
-</p>
+<br />
+
+### Accueil
+Une entrée claire pour comprendre le périmètre, la base étudiée et la proposition de valeur du projet.
 
 <p align="center">
-  <img src=".github/assets/player-profile.png" alt="Profil joueur" width="45%" />
-  <img src=".github/assets/scouting-radar.png" alt="Radar scouting" width="45%" />
+  <img src=".github/assets/home.png" alt="Page d'accueil" width="920" />
+</p>
+
+<br />
+
+### Shortlist recrutement
+Un module orienté décision pour filtrer une population, cibler un rôle et construire une liste exploitable de profils.
+
+<p align="center">
+  <img src=".github/assets/shortlist.png" alt="Module shortlist recrutement" width="920" />
+</p>
+
+<br />
+
+### Profil joueur
+Une fiche individuelle pour lire rapidement l'identité du joueur, ses dimensions football, ses rôles dominants et ses comparables.
+
+<p align="center">
+  <img src=".github/assets/player-profile.png" alt="Profil joueur" width="920" />
+</p>
+
+<br />
+
+### Radar scouting
+Une comparaison visuelle entre joueurs d'un même groupe de poste à partir de percentiles adaptés au contexte de lecture.
+
+<p align="center">
+  <img src=".github/assets/scouting-radar.png" alt="Radar scouting" width="920" />
 </p>
 
 ## Objectif métier
